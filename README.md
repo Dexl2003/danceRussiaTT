@@ -28,7 +28,7 @@
 
 ### 1. Получение API ключа
 
-1. Зарегистрируйтесь на [OpenWeatherMap](https://openweathermap.org/)
+1. Зарегистрируйтесь на Api yandex weater
 2. Получите бесплатный API ключ
 3. Скопируйте ключ
 
