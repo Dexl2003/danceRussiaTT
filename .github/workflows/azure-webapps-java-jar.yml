@@ -53,7 +53,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: java-app
-          path: '${{ github.workspace }}/target/*.jar'
+          path: '${{ github.workspace }}/target/danceRussiaTT-0.0.1-SNAPSHOT.jar'
 
   deploy:
     permissions:
